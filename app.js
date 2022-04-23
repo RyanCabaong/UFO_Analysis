@@ -2,7 +2,11 @@
 const tableData = data;
 // get table references
 var tbody = d3.select("tbody");
-
+//cd C:/users/ryanc/OneDrive/Desktop/md11
+//UFO_Analysis
+//http://127.0.0.1:8000/index.html
+//python -m http.server
+//using powershell
 function buildTable(data) {
     // First, clear out any existing data
     tbody.html("");
